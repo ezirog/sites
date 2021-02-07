@@ -1,0 +1,148 @@
+body {margin: 0} 
+
+.header {
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  left: 50%;
+  background-color: #6907ff;
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.column {
+  margin: 0 400px 0 400px;
+  min-width: 1050px;
+}
+
+.menu {
+  line-height: 3.611;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.menuButton {
+  font-size: 18px;
+  font-family: "Raleway";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  display: inline-block;
+  margin: 0 30px 0 30px;
+}
+
+.orangeButton {
+  display: inline-block;
+  background-color: rgb(255, 95, 96);
+  text-align: center;
+  border-radius: 45px;  
+}
+
+.logo {
+    font-size: 40px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.625;
+    -moz-transform: matrix( 0.93342084153723,0,0,0.92592592592593,0,0);
+    -webkit-transform: matrix( 0.93342084153723,0,0,0.92592592592593,0,0);
+    -ms-transform: matrix( 0.93342084153723,0,0,0.92592592592593,0,0);
+    display: inline-block;
+  }
+ 
+  .headerEducation {
+    font-size: 70px;
+    font-family: "Raleway";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.071;
+    text-align: left;
+  }
+
+  .textContent {
+    font-size: 17px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    line-height: 1.765;
+  }
+
+  .peoples {
+    position: relative;
+  }
+
+  /*-------*/
+  #teacherCounter {
+    transform: rotate(15.5deg);
+    position: absolute;
+    left: 465px;
+    top: 155px;
+    width: 147px;
+    height: 145px;
+  }
+
+  #courcesCounter {
+    filter: invert(100%);
+    transform: rotate(-8.5deg);
+    position: absolute;
+    left: 299px;
+    top: 9px;
+  }
+
+  #studentsCounter {
+    /*transform: rotate(-8.5deg);*/
+    position: absolute;
+    left: 270px;
+    top: 172px;
+  }
+
+  #learnAnywhere {
+    /*transform: rotate(-8.5deg);*/
+    position: absolute;
+    left: 155px;
+    top: 328px;
+  }
+
+  #lifeTimeAccess {
+    /*transform: rotate(-8.5deg);*/
+    position: absolute;
+    left: 310px;
+    top: 328px;
+  }
+
+  #expertInstructions {
+    /*transform: rotate(-8.5deg);*/
+    position: absolute;
+    left: 465px;
+    top: 328px;
+  }
+
+  .counter {
+    width: 147px;
+    height: 145px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+  }
+
+  .logoWithText {
+    margin-top: 52px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .counterText {
+    font-size: 14px;
+    font-family: "Raleway";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+  }
+  
+  .mainContent {
+    position: relative;
+  }
+  
+  
+  

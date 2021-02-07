@@ -1,0 +1,125 @@
+.header {
+    min-width: 910px;
+    background-image: linear-gradient( 143deg, rgba(0,184,212,.85) 0%, rgba(29,233,182,.85) 30%), url('../img/notebook.png');
+    background-size: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 750px;
+    z-index: 5;
+}
+  
+.Dart_service_manager {
+    font-family: "Raleway";
+    display:inline-block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.Shape_1 {
+    display:inline-block;
+}
+
+.menu {    
+    display:inline;
+}
+
+.menuItem, .signUpButton {
+    font-size: 15px;
+    margin: 18px;
+    font-family: "Raleway";
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+
+  .menuItem:hover {
+    color: rgb(0, 0, 0);
+  }
+
+.signUpButton {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 3px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    justify-content: end;
+    float: right;
+}  
+
+
+.lorem_Ipsum_Dolor_sit_amet {
+    font-size: 55px;
+    font-family: "Raleway";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.182;
+    text-align: left;
+  }
+
+  .Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+    font-size: 18px;
+    font-family: "Raleway";
+    color: rgb(255, 255, 255);
+    line-height: 1.944;
+    text-align: left;
+    width: 580px;
+  }
+
+  .video {
+    border: 1px solid rgb(6, 30, 55);
+    border-radius: 4px;
+    width: 600px;
+    height: 320px;
+    line-height: 1.944;
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.8), 
+        rgba(255, 255, 255, 0.8)
+      ), url('../img/keyboard.png');
+  }
+
+  .play {
+    border: 1px solid rgb(0,0,0);
+    height: 130px;
+    width: 130px;
+    align-content: center;
+    height: 100%;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    position: relative;
+  }
+
+  .playButton {
+    position: absolute;
+    left: 20px;
+    top: 115px;
+    margin: auto;
+    background-color: rgba(6, 30, 55, 0.5);
+    height: 90px;
+    width: 90px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+
+  .Watch_the_video {
+    font-size: 12px;
+    font-family: "Raleway";
+    color: rgb(6, 30, 55);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+  }
+  
+  
+  
+  
