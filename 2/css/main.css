@@ -7,7 +7,7 @@ body {margin: 0}
   left: 50%;
   background-color: #6907ff;
   padding-top: 50px;
-  padding-bottom: 150px;
+  padding-bottom: 150px;  
 }
 
 .column {
@@ -75,8 +75,8 @@ body {margin: 0}
   #teacherCounter {
     transform: rotate(15.5deg);
     position: absolute;
-    left: 465px;
-    top: 155px;
+    left: 480px;
+    top: 160px;
     width: 147px;
     height: 145px;
   }
@@ -85,35 +85,35 @@ body {margin: 0}
     filter: invert(100%);
     transform: rotate(-8.5deg);
     position: absolute;
-    left: 299px;
+    left: 310px;
     top: 9px;
   }
 
   #studentsCounter {
     /*transform: rotate(-8.5deg);*/
     position: absolute;
-    left: 270px;
+    left: 280px;
     top: 172px;
   }
 
   #learnAnywhere {
     /*transform: rotate(-8.5deg);*/
     position: absolute;
-    left: 155px;
+    left: 164px;
     top: 328px;
   }
 
   #lifeTimeAccess {
     /*transform: rotate(-8.5deg);*/
     position: absolute;
-    left: 310px;
+    left: 320px;
     top: 328px;
   }
 
   #expertInstructions {
     /*transform: rotate(-8.5deg);*/
     position: absolute;
-    left: 465px;
+    left: 477px;
     top: 328px;
   }
 
